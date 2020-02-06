@@ -1,29 +1,39 @@
 {
   "users": [
     {
-      "id": "57",
-      "firstName": "Devlen",
-      "age": 20
+      "id": "1",
+      "firstName": "Eustace",
+      "age": 28,
+      "companyId": "3"
     },
     {
-      "id": "23",
-      "firstName": "Rici",
-      "age": 25
+      "id": "2",
+      "firstName": "Brita",
+      "age": 21,
+      "companyId": "2"
     },
     {
-      "id": "41",
-      "firstName": "Kareem",
-      "age": 33
+      "id": "3",
+      "firstName": "Josiah",
+      "age": 34,
+      "companyId": "1"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Zooxo",
+      "description": "Asoka"
     },
     {
-      "id": "23",
-      "firstName": "Alexandrina",
-      "age": 48
+      "id": "2",
+      "name": "Topiczoom",
+      "description": "Voyatouch"
     },
     {
-      "id": "40",
-      "firstName": "Hinze",
-      "age": 45
+      "id": "3",
+      "name": "Yodoo",
+      "description": "Zamit"
     }
   ]
 }
