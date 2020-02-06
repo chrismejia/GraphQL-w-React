@@ -2,9 +2,9 @@
   "users": [
     {
       "id": 2,
-      "firstName": "Lyon",
-      "age": 33,
-      "companyId": 3
+      "firstName": "Twosday",
+      "age": 22,
+      "companyId": 2
     },
     {
       "id": 3,
