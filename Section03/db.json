@@ -1,39 +1,93 @@
 {
   "users": [
     {
-      "id": "1",
-      "firstName": "Eustace",
-      "age": 28,
-      "companyId": "3"
+      "id": 1,
+      "firstName": "Lana",
+      "age": 18,
+      "companyId": 2
     },
     {
-      "id": "2",
-      "firstName": "Brita",
+      "id": 2,
+      "firstName": "Lyon",
+      "age": 33,
+      "companyId": 3
+    },
+    {
+      "id": 3,
+      "firstName": "Teddy",
+      "age": 22,
+      "companyId": 3
+    },
+    {
+      "id": 4,
+      "firstName": "Horace",
+      "age": 35,
+      "companyId": 1
+    },
+    {
+      "id": 5,
+      "firstName": "Tuck",
+      "age": 30,
+      "companyId": 2
+    },
+    {
+      "id": 6,
+      "firstName": "Gilburt",
+      "age": 23,
+      "companyId": 1
+    },
+    {
+      "id": 7,
+      "firstName": "Chandal",
       "age": 21,
-      "companyId": "2"
+      "companyId": 3
     },
     {
-      "id": "3",
-      "firstName": "Josiah",
-      "age": 34,
-      "companyId": "1"
+      "id": 8,
+      "firstName": "Rachel",
+      "age": 30,
+      "companyId": 3
+    },
+    {
+      "id": 9,
+      "firstName": "Daloris",
+      "age": 27,
+      "companyId": 1
+    },
+    {
+      "id": 10,
+      "firstName": "Chevalier",
+      "age": 43,
+      "companyId": 1
+    },
+    {
+      "id": 11,
+      "firstName": "Hedvig",
+      "age": 43,
+      "companyId": 2
+    },
+    {
+      "id": 12,
+      "firstName": "Martino",
+      "age": 25,
+      "companyId": 3
     }
   ],
   "companies": [
     {
-      "id": "1",
-      "name": "Zooxo",
-      "description": "Asoka"
+      "id": 1,
+      "name": "Quinu",
+      "description": "optimize e-business partnerships"
     },
     {
-      "id": "2",
-      "name": "Topiczoom",
-      "description": "Voyatouch"
+      "id": 2,
+      "name": "Brightbean",
+      "description": "repurpose best-of-breed e-markets"
     },
     {
-      "id": "3",
-      "name": "Yodoo",
-      "description": "Zamit"
+      "id": 3,
+      "name": "Skimia",
+      "description": "utilize best-of-breed schemas"
     }
   ]
 }
