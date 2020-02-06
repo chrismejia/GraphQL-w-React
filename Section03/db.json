@@ -71,6 +71,18 @@
       "firstName": "Martino",
       "age": 25,
       "companyId": 3
+    },
+    {
+      "firstName": "Michael",
+      "age": 30,
+      "id": 13,
+      "companyId": 1
+    },
+    {
+      "firstName": "Marcus",
+      "age": 22,
+      "companyId": 2,
+      "id": 14
     }
   ],
   "companies": [
